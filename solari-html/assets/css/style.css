@@ -20033,7 +20033,7 @@ p {
   overflow: hidden;
   display: block;
   position: relative;
-  background-image: url(../images/service/19.png);
+  background-image: url(../images/service/19.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 2;
@@ -20041,10 +20041,10 @@ p {
   height: 100%;
 }
 .single-service-solari.two {
-  background-image: url(../images/service/26.png);
+  background-image: url(../images/service/26.jpg);
 }
 .single-service-solari.three {
-  background-image: url(../images/service/27.png);
+  background-image: url(../images/service/14.jpg);
 }
 .single-service-solari.four {
   background-image: url(../images/service/28.png);
@@ -20113,7 +20113,7 @@ p {
 
 .single-solari-service-start {
   padding: 30px;
-  background-image: url(../images/service/20.png);
+  background-image: url(../images/service/20.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -20127,13 +20127,13 @@ p {
   box-shadow: 0px 4px 34px rgba(0, 0, 0, 0.1);
 }
 .single-solari-service-start.two {
-  background-image: url(../images/service/29.png);
+  background-image: url(../images/service/29.jpg);
 }
 .single-solari-service-start.three {
-  background-image: url(../images/service/30.png);
+  background-image: url(../images/service/30.jpg);
 }
 .single-solari-service-start.four {
-  background-image: url(../images/service/31.png);
+  background-image: url(../images/service/14.jpg);
 }
 .single-solari-service-start:hover .icon-area {
   border: 1px solid transparent;
